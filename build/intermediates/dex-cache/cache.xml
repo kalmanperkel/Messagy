@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\kalmanperkel\.android\build-cache\be850f18cea77c8c40de765dac410d97dd1f2c1c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\kalmanperkel\Documents\Messagy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dd3cd2553ab6a7e3c7fae59aa8acfc55ddf15786\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kalmanperkel\.android\build-cache\21fb2204dd1a72285c23919f708b1e3790b20e2a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\kalmanperkel\Documents\Messagy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f80fe2bb56488d5ba3d2c703a8b8495a45c4f0e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kalmanperkel\.android\build-cache\4d9ff89956cdeb19fb3a19d4e9186afbd893c39d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\kalmanperkel\Documents\Messagy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b36f8fd8e3c53ddb152e33a20a70b6bf60a6fd3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kalmanperkel\.android\build-cache\4906088bdc6ce38406973a3e7a0dcb825f33a5c4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\kalmanperkel\Documents\Messagy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_107944526a752411cbacc6ada7e5a466a10cd0c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kalmanperkel\.android\build-cache\4efff6ba4bbe2201f5a943ba218abb9e6e379b03\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\kalmanperkel\Documents\Messagy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_50e1a8e744419d03b212c6ca9e544775e41f714f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kalmanperkel\Documents\Messagy\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\kalmanperkel\Documents\Messagy\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_37505a7e1aab6913b0b23b71894dab8774a4fdb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kalmanperkel\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\kalmanperkel\Documents\Messagy\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_6ab8a20fecc15f04cac78cfa23d2acc7e5c7ae66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kalmanperkel\.android\build-cache\2ba62b8d7fcc5bdff3951cbf792ebc3a3cf260f7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\kalmanperkel\Documents\Messagy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_14829a8f836bbb300344a2b8c3b6c9d7563acd6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kalmanperkel\.android\build-cache\ee3170b1317bd369ef6b5331a6c44ede4af7bc67\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\kalmanperkel\Documents\Messagy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_53170faef03a3f79c78d3d540cfc74074ffec3bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kalmanperkel\.android\build-cache\83aaf2109d4c071e3524d4184a81faf34d916887\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\kalmanperkel\Documents\Messagy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d8b9e829dfaed9d999cee728383433ecfd484427\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kalmanperkel\.android\build-cache\3f37508cd4d09dff9975e67ceb0e10b290487557\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\kalmanperkel\Documents\Messagy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f833baf5815ed8ae22af1da689d7fa8086460250\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kalmanperkel\.android\build-cache\1dea36b1ff678a8fbe2b6e3768d41bf4d1a55772\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\kalmanperkel\Documents\Messagy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1d5223744cf0c68ce1c451265f7d9cede861da74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kalmanperkel\.android\build-cache\f614bcec0ebbac6da34493e9a49aea0dd74f1777\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\kalmanperkel\Documents\Messagy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_16388e42aeff7b89619f12e5d39d197f88ede858\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kalmanperkel\.android\build-cache\8d1809cf66cf73e760c21cc4ea62a19e70a2a8de\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\kalmanperkel\Documents\Messagy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4004bcd7ad31450a68cb5bdb3ebd1213bd9060d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kalmanperkel\.android\build-cache\86a3cf84b8ab8b1296c8fb9a7c775748556db3ac\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\kalmanperkel\Documents\Messagy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_948124f5310792756f4aa22ab16e62ea3b380e63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kalmanperkel\Documents\Messagy\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="446801d65310c24d251f141ffe503325619ed864">
+        <dex dex="C:\Users\kalmanperkel\Documents\Messagy\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f2bd01ab9a83410e5f831782c98571ff7aecff8d\classes.dex" />
+    </item>
+
+</items>

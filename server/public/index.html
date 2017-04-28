@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html ng-app="messagy">
+<head>
+    <title>Messagy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="application/javascript" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
+    <link rel="stylesheet" type="text/css" href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/home.css">
+    <link rel="stylesheet" href="css/main.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-route.js"></script>
+    <script src="core.js"></script>
+    <script src="controllers/homeController.js"></script>
+    <script src="directives/postDirectiveJs.js"></script>
+</head>
+<body>
+
+    <div id="blue_top_static"></div>
+    <div id="blue_top_div">
+
+        <div class="stay_put">
+            <li class="stay_put"><a class="nav_bar_a" href="/">התחבר</a></li>
+            <li class="stay_put"><a class="nav_bar_a" href="/">הרשם</a></li>
+
+            <div class="stay_put" id="logo_wrapper">
+                <p class="stay_put" id="logo_text">Messagy</p>
+                <p id="logo_slang_message">שתף - מה שאתה חושב</p>
+            </div>
+        </div>
+    </div>
+    <div class="main_container">
+
+    <div id="top_content">
+        <div class="top_content_stat_div">
+            <p class="bold_number"> 4000</p>
+            <p>שיתופים התקבלו היום </p>
+            <br>
+            <p class="bold_number"> 5678</p>
+            <p> תגובות של אנשים התקבלו</p>
+            <br>
+            <p class="bold_number"> 389</p>
+            <p> כרגע מחוברים</p>
+        </div>
+        <div class="post_container">
+
+            <div class="row">
+
+                <div class="col-md-6">
+                    <div class="widget-area no-padding blank">
+                        <div class="status-upload">
+                            <form>
+                                <textarea placeholder="שתף מה שאתה חושב..."></textarea>
+                                <button type="submit" class="btn btn-success green"><i class="fa fa-share"></i> שתף
+                                </button>
+
+                            </form>
+                        </div><!-- Status Upload  -->
+                    </div><!-- Widget Area -->
+                </div>
+
+            </div>
+        </div>
+        <hr>
+    </div>
+    <div id="view_container" ng-view>
+    </div>
+</div>
+</body>
+</html>
+
